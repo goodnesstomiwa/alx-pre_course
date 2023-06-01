@@ -1,1 +1,1 @@
-This is my second readme file
+I've made some few adjustments. It should work properly now.
